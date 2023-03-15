@@ -1,0 +1,62 @@
+header{
+    width: 1440px;
+}
+.logo1{
+    width: 46px;
+    height: 46px;
+    margin-left: 130px;
+    margin-top: 38px;
+    vertical-align: middle;
+}
+h2{
+    display:inline-block;
+    vertical-align: middle;
+  margin-left: 15px;
+  margin-top: 40px;
+    size: 26px;
+    font-family: Poppins;
+
+
+}
+
+.li1{
+    display: inline-block;
+    margin-top: 42px;  
+    margin-left: 280px;
+    vertical-align: middle;
+    font-family: Nerko One;
+    color: #6D6D6D;
+}
+.li2{
+    display: inline-block;
+    margin-top: 42px;
+    margin-left: 55px;
+    margin-right: 47px;
+    vertical-align: middle;
+    font-family: Nerko One;
+    color: #6D6D6D;
+}
+.li3{
+    display: inline-block;
+    margin-top: 42px;
+    vertical-align: middle;
+    font-family: Nerko One;
+    color: #6D6D6D;
+
+}
+.li4{
+   display: inline-block;
+   vertical-align: middle;
+   margin-left: 253px;
+   margin-top: 42px;
+   background-color: #2A9D8F;
+   width: 155px;
+   height: 46px;
+   padding-top: 12px;
+   padding-left: 35px;
+   font-family: Nerko One;
+    color: white
+}
+.nav1{
+    display: inline-block;
+}
