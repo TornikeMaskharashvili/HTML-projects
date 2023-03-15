@@ -59,4 +59,54 @@ h2{
 }
 .nav1{
     display: inline-block;
+    margin-left: 130px;
+}
+.img1{
+    margin-left: 130px;
+    margin-top: 80px;
+    width: 600px;
+    height: 560px;
+    vertical-align: top;
+}
+.nav2{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 100px;
+}
+.li5{
+    margin-left: 100px;
+    margin-top: 80px;
+    display: inline-block;
+}
+.li6{
+display: inline-block;
+}
+
+.ppp{
+    width: 480px;
+    height: 325px;
+    margin-top: 33px;
+    font-family:  Poppins;
+    font-style: italic;
+    color: #515151;
+    
+
+}
+.divo{
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+section{
+    background-color: #C2F3EE;
+    height: 720px;
+    width: 1440px;
+    margin-top: 20px;
+}
+h3{
+    font-family:  Poppins;
+    color: #272727;
+    font-size: 32px;
+    width: 480px;
+    height: 90px;
 }
